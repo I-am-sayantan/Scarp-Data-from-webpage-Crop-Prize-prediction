@@ -21,3 +21,8 @@ use pip install 'lib name'
 ###Output wiil look alike:
 ![outputcode](https://user-images.githubusercontent.com/50532530/116935400-eeade880-ac83-11eb-8980-3b3a207cbb1c.PNG)
 
+# Part A  and C
+In the doc it is given.
+
+
+Others things of the analysis will be updated as per reqirement.
