@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 use pip install 'lib name'
 
 
-###Output wiil look alike:
+### Output wiil look alike:
 ![outputcode](https://user-images.githubusercontent.com/50532530/116935400-eeade880-ac83-11eb-8980-3b3a207cbb1c.PNG)
 
 # Part B  and C
