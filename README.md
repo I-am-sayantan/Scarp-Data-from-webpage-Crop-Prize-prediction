@@ -14,7 +14,7 @@ import codecs
 from bs4 import BeautifulSoup
 
 
-##to downlaod Libraries:
+## to downlaod Libraries:
 use pip install 'lib name'
 
 
