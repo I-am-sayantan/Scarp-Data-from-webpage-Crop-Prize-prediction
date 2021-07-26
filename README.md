@@ -7,6 +7,8 @@
 <img width="1440" alt="PS2" src="https://user-images.githubusercontent.com/50532530/127062152-e57c40ce-ec91-4480-8294-383f122cd991.png">
 <img width="1440" alt="Group_40_2" src="https://user-images.githubusercontent.com/50532530/127063183-7f165049-cd10-4ae2-9aad-659733e651ea.png">
 
+<img width="1440" alt="ps3_1" src="https://user-images.githubusercontent.com/50532530/127064563-fe004440-eb7b-4946-bfe4-639d3c294c14.png">
+<img width="1440" alt="Group_43_3" src="https://user-images.githubusercontent.com/50532530/127064655-c683ca86-f511-421b-b285-851d5adea6df.png">
 
 
 # Part A 
