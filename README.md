@@ -5,6 +5,7 @@
 
 <img width="1440" alt="Group_29_4" src="https://user-images.githubusercontent.com/50532530/127062111-36a1b344-2f1d-4f2c-bed8-27a43b25b524.png">
 <img width="1440" alt="PS2" src="https://user-images.githubusercontent.com/50532530/127062152-e57c40ce-ec91-4480-8294-383f122cd991.png">
+<img width="1440" alt="Group_40_2" src="https://user-images.githubusercontent.com/50532530/127063183-7f165049-cd10-4ae2-9aad-659733e651ea.png">
 
 
 
